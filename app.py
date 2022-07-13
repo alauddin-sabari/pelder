@@ -1005,4 +1005,4 @@ def reggs(acr_range, price_range):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port= 8059)
+    app.run_server(debug=False)
